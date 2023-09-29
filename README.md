@@ -1,8 +1,5 @@
 ### Hi I'm Yao ⭐️
 
-<!--
-**slalompet/slalompet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a web designer who is passinate about making good content for social media and websites. 
 
 - 🔭 I’m currently working on my own website
