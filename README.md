@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'm Yao ⭐️
 
 <!--
 **slalompet/slalompet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a web designer who is passinate about making good content for social media and websites. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own website
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👯 I’m looking to collaborate on front-end development
+- 🤔 I’m looking for help with anything to do with codes lol
+- 💬 Ask me about art, design and cozy games
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I have a yoga teacher certificate
+
+## Find me around the web:
+- 📫 yawu2300@student.miun.se
+
