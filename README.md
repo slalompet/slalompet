@@ -1,6 +1,6 @@
 # Hi I'm Yao ⭐️
 
-I'm a web designer who is passinate about making good content for social media and websites. 
+I'm a designer who is passinate about making good content for social media and websites. 
 
 - 🔭 I’m currently working on my own website
 - 🌱 I’m currently learning HTML, CSS and Javascript
@@ -10,6 +10,4 @@ I'm a web designer who is passinate about making good content for social media a
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have a yoga teacher certificate
 
-## Find me around the web:
-- 📫 yawu2300@student.miun.se
 
